@@ -5,4 +5,5 @@ def fizzbuzz(int)
     puts "Fizz"
     elsif (n % 5)
     puts "Buzz"
+  else
 end
