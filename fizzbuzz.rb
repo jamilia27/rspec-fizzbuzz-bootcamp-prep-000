@@ -1,16 +1,2 @@
 def fizzbuzz(int)
-  if int % 3 == 0 
-    puts "Fizz"
-    elsif int % 5 == 0 
-      puts "Buzz"
-      elsif int % 3 && int % 5 == 0 
-        puts "FizzBuzz"
-      else
-        puts "nil"
-      end(4)
-    end
-  
-  fizz_3 = fizzbuzz(3)
-  fizz_5 = fizzbuzz(5)
-  fizz_15 = fizzbuzz(15)
-  fizz_4 = fizzbuzz
+end
